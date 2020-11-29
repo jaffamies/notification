@@ -4,7 +4,7 @@ Käytä seuraavia triggereitä käyttääksesi tätä muissa scripteissä:
 
 CLIENTSIDE: TriggerEvent("notification", "teksti", 1)
 
-SERVER SIDE: TriggerClientEvent("notification, "teksti", 1)
+SERVER SIDE: TriggerClientEvent("notification", "teksti", 1)
 
 1 = "Informaatio" väri (kuvissa "Liityit radiotaajudelle..")
 2 = punainen
